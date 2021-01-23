@@ -1,8 +1,8 @@
 package main
 
 import (
-    "./db"
-    "./log"
+    "working-with-my-packages/db"
+    "working-with-my-packages/log"
 )
 
 func main() {
